@@ -35,7 +35,7 @@ def create_qr_button_clicked():
     Handle the button click event for creating QR codes.
     """
     text = entry.get()
-    qr_path = "C:/Users/MaTiN/Desktop/myScripts/qrmaker/qr.png"
+    qr_path = "app\qr.png"
     create_qr_code(text, qr_path)
     display_qr_code(qr_path)
 
@@ -44,7 +44,7 @@ root = Tk()
 root.title("QR Maker")
 
 # Load the icon photo
-ICON_PATH = "C:/Users/MaTiN/Desktop/myScripts/qrmaker/icon.png"
+ICON_PATH = "app\icon.png"
 icon_photo = PhotoImage(file=ICON_PATH)
 root.iconphoto(False, icon_photo)
 
