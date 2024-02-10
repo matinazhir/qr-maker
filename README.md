@@ -3,7 +3,7 @@
 
 
 
-![QR-Maker Screenshot](https://imgur.com/BNdYej4 "Screenshot of QR-Maker App")
+![QR-Maker Screenshot](https://imgur.com/BNdYej4.png "Screenshot of QR-Maker App")
 
 
 Really simple app to create QR codes easily with one click. Put the text that you want toconvert into a QR into the field and click on "create" button, tadaaa! You get your QR code instantly in the app and you can scan it with a scanner or phone or whatever.
